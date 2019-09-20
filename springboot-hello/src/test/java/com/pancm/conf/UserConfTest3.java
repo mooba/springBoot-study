@@ -1,7 +1,6 @@
 package com.pancm.conf;
 
 import com.pancm.pojo.User;
-import org.assertj.core.util.Compatibility;
 import org.junit.Test;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.GenericGroovyApplicationContext;
