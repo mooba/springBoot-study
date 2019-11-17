@@ -1,0 +1,6 @@
+log4j2:
+  contextSelector: org.apache.logging.log4j.core.async.AsyncLoggerContextSelector
+
+logging:
+  config: classpath:log4j2-dev.yml
+
